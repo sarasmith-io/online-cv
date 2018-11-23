@@ -14,9 +14,7 @@ sidebar:
     email: sarapennysmith@gmail.com
     linkedin: sara-smith-adelaide
 
-    resume:
-      - title: Download Resume
-        file: Sara_Smith_Systems_Administrator.pdf
+    resume: Sara_Smith_Systems_Administrator.pdf
  
     interests:
       - item: Sewing and vintage fashion
