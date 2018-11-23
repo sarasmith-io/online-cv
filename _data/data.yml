@@ -14,11 +14,10 @@ sidebar:
     email: sarapennysmith@gmail.com
     linkedin: sara-smith-adelaide
 
-
-    languages:
-      - idiom: [Download](files/Sara_Smith_Systems_Administrator.pdf) 
-        level:
-
+    resume:
+      - item: Download
+        link: files/Sara_Smith_Systems_Administrator.pdf
+ 
     interests:
       - item: Sewing and vintage fashion
         link:

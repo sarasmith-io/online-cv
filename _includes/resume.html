@@ -1,17 +1,20 @@
-{% assign languages = site.data.data.sidebar.languages %}
-{% if languages %}
-<div class="languages-container container-block">
+{% assign resume = site.data.data.sidebar.resume %}
+{% if resume %}
+<div class="interests-container container-block">
 
   <h2 class="container-block-title">
     Resume
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {%for language in languages %}
-    <li>
-      {{ language.idiom }}
-      <span class="lang-desc">({{ language.level }})</span>
-    </li>
+    {% for resume in resume %}
+
+      {% if resume.link %}
+      <li><a href="{{ resume.link }}">{{ resume.item }}</a></li>
+      {% else %}
+      <li>{{ resume.item }}</li>
+      {% endif %}
+
     {% endfor %}
   </ul>
 
