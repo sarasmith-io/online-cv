@@ -1,31 +1,18 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Forked from https://github.com/sharu725/online-cv and modified heavily for my own use
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: True 
 
     # Profile information
     name: Sara Smith
     tagline: Systems Administrator 
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png 
 
     # Sidebar links
     email: sarapennysmith@gmail.com
-#    phone: 012 345 6789
-#    website: blog.webjeda.com #do not add http://
     linkedin: sara-smith-adelaide
-#    github: 
-#    gitlab:
-#    bitbucket:
-#    twitter: '@webjeda'
-#    stack-overflow: # Number/Username, e.g. 123456/alandoe
-#    codewars:
-
-    languages:
-      - idiom: English
-        level: Native
 
     interests:
       - item: Sewing and vintage fashion
