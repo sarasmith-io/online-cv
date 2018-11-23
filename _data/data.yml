@@ -15,8 +15,8 @@ sidebar:
     linkedin: sara-smith-adelaide
 
     resume:
-      - item: Download
-        link: files/Sara_Smith_Systems_Administrator.pdf
+      - title: Download Resume
+        file: Sara_Smith_Systems_Administrator.pdf
  
     interests:
       - item: Sewing and vintage fashion

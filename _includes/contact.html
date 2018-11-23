@@ -61,5 +61,11 @@
     </li>
     {% endif %}
 
+    {% if sidebar.resume %}
+    <li class="resume"><i class="fas fa-file-o"</i>
+      <a href="files/{{ sidebar.resume.file }}" target="_blank"> {{ sidebar.resume.title }}</a>
+    </li>
+    {% endif %}
+
   </ul>
 </div><!--//contact-container-->
