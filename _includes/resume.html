@@ -1,22 +1,11 @@
-{% assign resume = site.data.data.sidebar.resume %}
-{% if resume %}
-<div class="interests-container container-block">
+<div class="resume-container container-block">
 
   <h2 class="container-block-title">
     Resume
   </h2>
 
   <ul class="list-unstyled interests-list">
-    {% for resume in resume %}
-
-      {% if resume.link %}
-      <li><a href="{{ resume.link }}">{{ resume.item }}</a></li>
-      {% else %}
-      <li>{{ resume.item }}</li>
-      {% endif %}
-
-    {% endfor %}
+      <li><a href="files/Sara_Smith_Systems_Administrator.pdf">Download</a></li>
   </ul>
 
-</div><!--//interests-->
-{% endif %}
+</div><!--//resume-->
