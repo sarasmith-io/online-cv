@@ -1,5 +1,5 @@
 #
-# Forked from https://github.com/sharu725/online-cv and modified heavily for my own use
+# Forked from https://github.com/sharu725/online-cv and modified to suit my use
 #
 
 sidebar:
@@ -13,21 +13,16 @@ sidebar:
     # Sidebar links
     email: sarapennysmith@gmail.com
     linkedin: sara-smith-adelaide
-
     resume: Sara_Smith_Systems_Administrator.pdf
  
     interests:
       - item: Sewing and vintage fashion
-        link:
 
       - item: Nature
-        link:
 
       - item: Fantasy fiction
-        link:
 
       - item: Video games
-        link:
 
 career-profile:
     title: Career Profile
@@ -36,7 +31,7 @@ career-profile:
       varied roles in the tech space for the past 9 years. Recently focused in
       the eResearch space, developing and supporting Cloud Platforms, High Performance
       Computing and enterprise grade storage systems. Strong desire to continue
-      learning new skills, and working with diverse and unique companies and people. 
+      working with diverse and unique companies and people and to continue learning new skills.
 
 education:
     - degree: Red Hat System Administration
@@ -54,8 +49,10 @@ experiences:
       time: 2015 - 2019
       company: eResearch SA
       details: |
- #       Describe your role here lorem ipsum dolor sit amet, consectetuer
- #       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+         Responsible for the delivery and development of eResearch computing 
+         services across South Australia and nationally. Leading and working
+         with a team of 5 as well as collaborating internally and with external 
+         groups.
 
 #          - Bullet point
 #          - Bullet point 
@@ -64,14 +61,20 @@ experiences:
       time: 2012 - 2015
       company: Santos Ltd
       details: |
+         Contributing to maintaining a large virtual and physical environment
+         supporting a wide range of end users, applications, and operating systems.
+         First and second level IT assistance for staff, using ITIL concepts. 
+
 
     - role: Technical Solutions Rep II
       time: 2010 - 2012
       company: HP Enterprise Services
       details: |
+         Working in a fast paced, high volume, level one IT support desk. 
+         Sepecialised support for company VIPs and executives. 
 
     - role: Customer Service
-      time: 2000 -2010
+      time: 2000 - 2010
       company: Varied
       details: |
         Varied customer service roles, fitting around study. 
@@ -130,23 +133,47 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Linux System Administration
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Windows System Administration
+        level: 70%
+
+      - name: Storage Administration
+        level: 70%
+
+      - name: Cloud Computing
+        level: 65%
+
+      - name: High Performance Computing
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Sharepoint and O365 administration
+        level: 70%
+
+      - name: Bash scripting
+        level: 90%
+
+      - name: Python scripting
+        level: 50%
+
+      - name: Active Directory
+        level: 80%
+
+      - name: LDAP
+        level: 80%
+
+      - name: Puppet
+        level: 95%
+
+      - name: Ansible
+        level: 50%
+
+      - name: GitHub
+        level: 95%
+
+      - name: Nagios
+        level: 90%   
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Theme designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
