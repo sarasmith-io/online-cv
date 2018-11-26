@@ -81,17 +81,14 @@ experiences:
         This early experience created solid foundations for positive
         customer experiences, and working as part of a team. 
 
-#projects:
-#    title: Projects
-#    intro: >
-#      You can list your side projects or open source libraries in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#
-#    assignments:
-#      - title: Velocity
-#        link: "#hook"
-#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+projects:
+    title: Projects
+    intro: >
+       Click through for details on past projects and achievements.
+
+    assignments:
+      - title: Presentation at eResearch Australasia 2017 
+        link: http://conference.eresearch.edu.au/2017/08/maximising-research-potential-with-multipurpose-hardware/
 #
 #      - title: DevStudio
 #        link: "#"
