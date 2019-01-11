@@ -96,12 +96,12 @@ projects:
         link: http://conference.eresearch.edu.au/2017/08/maximising-research-potential-with-multipurpose-hardware/
 
       - title: LDAP management module for Hubot
-        link: "/past_projects.html"
-#        link: "/past_projects.html#LDAP-management"
+#        link: "/past_projects.html"
+        link: "/past_projects.html#LDAP-management"
 #        tagline: "A responsive website template designed to help web developers/designers market their services."
 #
-#      - title: Tempo
-#        link: "#"
+      - title: ownCloud Implementation
+        link: "/past_projects.html#ownCloud-implementation"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 #
 #      - title: Atom
