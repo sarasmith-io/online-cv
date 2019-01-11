@@ -34,6 +34,11 @@ career-profile:
       working with diverse and unique companies and people and to continue learning new skills.
 
 education:
+    - degree: Project Management Fundamentals
+      university: AIM
+      time: 2017
+      details: |
+
     - degree: Red Hat System Administration
       university: 
       time: 2014
