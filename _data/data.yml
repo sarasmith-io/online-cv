@@ -94,23 +94,31 @@ projects:
     assignments:
       - title: Presentation at eResearch Australasia 2017 
         link: http://conference.eresearch.edu.au/2017/08/maximising-research-potential-with-multipurpose-hardware/
+        tagline: "Represented the company with a presentation on our unique HPC/Cloud platform."
 
-      - title: LDAP management module for Hubot
-#        link: "/past_projects.html"
-        link: "/past_projects.html#LDAP-management"
-#        tagline: "A responsive website template designed to help web developers/designers market their services."
-#
       - title: ownCloud Implementation
         link: "/past_projects.html#ownCloud-implementation"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-#
-#      - title: Delta
-#        link: "#"
-#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Implementation of Open Source file sharing software."
+
+      - title: LDAP management module for Hubot
+        link: "/past_projects.html#LDAP-management"
+        tagline: "A custom Python script for user management."
+
+      - title: CKAN user management module for Hubot
+        link: "/past_projects.html#CKAN-management"
+        tagline: "A Python script using API commands to manage a third party application."
+
+      - title: Puppet overhaul for HPC cluster management
+        link: "/past_projects.html#Puppet-overhaul"
+        tagline: "Configuration management using Puppet and Kickstart."
+
+      - title: Technical Documentation wiki 
+        link: "/past_projects.html#Technical-wiki"
+        tagline: "Web based wiki using GitHub and Jekyll."
+
+      - title: Resume Website
+        link: "/past_projects.html#Resume-website"
+        tagline: "Creating of this website."
 
 #publications:
 #    title: Publications
